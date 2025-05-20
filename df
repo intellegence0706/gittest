@@ -1,0 +1,35 @@
+[33mcommit 8988441f18955e43824c9d07932986676e361876[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mqa[m[33m, [m[1;31morigin/qa[m[33m)[m
+Author: Challenger <itbusiness998.code@gmail.com>
+Date:   Tue May 20 00:14:04 2025 +0900
+
+    fix New file was added.
+
+[33mcommit 6cb9ba8e4ccacf75c9ed3bfd7c65890191a07799[m
+Author: Challenger <itbusiness998.code@gmail.com>
+Date:   Tue May 20 00:11:34 2025 +0900
+
+    feat: myProfile content was changed.
+
+[33mcommit dfe92ce46484e38629e1672ad56b4d26f6ca5eaf[m
+Author: Challenger <itbusiness998.code@gmail.com>
+Date:   Mon May 19 23:59:46 2025 +0900
+
+    feat:This file is my profile
+
+[33mcommit d0506e37322ef5684fb37fab9bd5c7e7395794ff[m
+Author: Challenger <itbusiness998.code@gmail.com>
+Date:   Mon May 19 23:54:22 2025 +0900
+
+    fix : change the content
+
+[33mcommit b7e15a1f45ef559d4cb892c204f6f04d02aa9b1b[m
+Author: Challenger <itbusiness998.code@gmail.com>
+Date:   Mon May 19 23:49:11 2025 +0900
+
+    fix :changes file content
+
+[33mcommit 7514349f322f88734a877884385609915facb5d0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: intellegence0706 <154347854+intellegence0706@users.noreply.github.com>
+Date:   Mon May 19 22:44:43 2025 +0900
+
+    Initial commit
