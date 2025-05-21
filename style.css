@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.weather-app {
+    max-width: 400px;
+    width: 100%;
+}
+
+.hidden {
+    display: none;
+}
+
+.error {
+    color: red;
+}
+
+form {
+    margin-bottom: 1rem;
+}
+
+input {
+    width: calc(100% - 80px);
+    padding: 0.5rem;
+}
+
+button {
+    padding: 0.5rem 1rem;
+}

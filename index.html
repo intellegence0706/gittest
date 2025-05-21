@@ -1,0 +1,36 @@
+api key 
+5d7f62175b3759a534154b07102286bb
+
+
+https://codeshare.io/G7j91a
+https://openweathermap.org/currentw
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+##weather.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Weather Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="weather-app">
+    <h1>Weather Dashboard</h1>
+    <form id="search-form">
+      <input type="text" id="city-input" placeholder="Enter city name" required>
+      <button type="submit">Search</button>
+    </form>	
+    <div id="weather-result" class="hidden">
+      <h2 id="city-name"></h2>
+      <p id="description"></p>
+      <p>🌡️ <span id="temp"></span>°C</p>
+      <p>💧 Humidity: <span id="humidity"></span>%</p>
+      <p>💨 Wind: <span id="wind"></span> m/s</p>
+    </div>
+    <p id="error-message" class="error hidden"></p>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
+
